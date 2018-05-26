@@ -29,6 +29,6 @@ function prependKitten(name) {
 }
 
 function removeLastKitten() {
-  let cats = kittens.filter("Garfield")
+  let cats = kittens.filter()
   return cats
 }
